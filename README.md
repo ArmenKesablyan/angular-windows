@@ -3,7 +3,6 @@ A window system designed for Angular 2.0
 
 
 ## Features
----
 ### Window Manager Service
 The window manager service keeps track of open windows locations and the ability to manage window components.
 
